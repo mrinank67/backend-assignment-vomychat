@@ -145,13 +145,6 @@ npm test
 
 ---
 
-## 🚜 **Next Steps**
-- Deploy using **Heroku** or **Vercel**.
-- Implement **rate limiting** and **logging** for better security.
-- Add **frontend integration** with React or Next.js.
-
----
-
 ## 🌟 **Contributing**
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
