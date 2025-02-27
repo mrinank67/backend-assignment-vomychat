@@ -162,5 +162,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-💪 Built with passion by YOUR-NAME 💪
+💪 Built with passion by Mrinank Raj 💪
 
