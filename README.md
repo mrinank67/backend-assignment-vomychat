@@ -164,7 +164,6 @@ GET /api/referrals
 ---
 
 
----
 
 ## 🔋 **Testing**
 Run tests using Jest:
