@@ -134,6 +134,35 @@ POST /api/auth/login
   "token": "your_jwt_token"
 }
 ```
+#### **🔹 Get CSRF Token**
+```http
+GET /api/csrf-token
+```
+**Response:**
+```json
+{
+  "csrfToken": "random_generated_token"
+}
+```
+
+### 🔹 **2. Referral System**
+#### **🔹 Get Referral List**
+```http
+GET /api/referrals
+```
+**Response:**
+```json
+[
+  {
+    "referrer_id": "507f1f77bcf86cd799439011",
+    "referred_user_id": "507f191e810c19729de860ea",
+    "status": "pending"
+  }
+]
+```
+
+---
+
 
 ---
 
